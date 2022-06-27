@@ -14,7 +14,7 @@ namespace HOTEL.Migrations
                 values: new object[] { 1, "Jamaica", "JM" });
 
             migrationBuilder.InsertData(
-                table: "Countries",
+                 table: "Countries",
                 columns: new[] { "id", "Name", "ShortName" },
                 values: new object[] { 2, "Bahamas", "BH" });
 
